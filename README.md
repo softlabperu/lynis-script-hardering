@@ -3,7 +3,7 @@
 
 Script básico para la solución de algunas de las sugerencias y alertas de la herramienta de auditoria [Lynis](https://cisofy.com/lynis/).
 
-*¡Antes de lanzar el scritp asegurece de que este no va a perjudicar el funcionamiento de su SO!*
+*¡Antes de lanzar el scritp asegúrese de que este no va a perjudicar el funcionamiento de su SO!*
 
 ### Inicio 🚀
 
